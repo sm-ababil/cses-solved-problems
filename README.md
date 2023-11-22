@@ -13,4 +13,4 @@ All my solved problems of [CSES problem set](https://cses.fi/problemset/list/) h
 [Repetitions](https://cses.fi/problemset/task/1083)|[C++20](/Introductory-Problems/3_Repetitions.cpp)
 [Increasing Array](https://cses.fi/problemset/task/1094/)|[C++20](/Introductory-Problems/4_Increasing_Array.cpp)
 [Permutations](https://cses.fi/problemset/task/1070)|[C++20](Introductory-Problems/5_Permutations.cpp)
-[Number Spiral](https://cses.fi/problemset/task/1071)|[C++20]((Introductory-Problems/6_Number_Spiral.cpp)
+[Number Spiral](https://cses.fi/problemset/task/1071)|[C++20](Introductory-Problems/6_Number_Spiral.cpp)
