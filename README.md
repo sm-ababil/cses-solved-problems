@@ -14,3 +14,4 @@ All my solved problems of [CSES problem set](https://cses.fi/problemset/list/) h
 [Increasing Array](https://cses.fi/problemset/task/1094/)|[C++20](/Introductory-Problems/4_Increasing_Array.cpp)
 [Permutations](https://cses.fi/problemset/task/1070)|[C++20](/Introductory-Problems/5_Permutations.cpp)
 [Number Spiral](https://cses.fi/problemset/task/1071)|[C++20](/Introductory-Problems/6_Number_Spiral.cpp)
+[Two Knights](https://cses.fi/problemset/task/1072)|[C++20](/Introductory-Problems/7_Two_Knights.cpp)
