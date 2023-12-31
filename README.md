@@ -16,3 +16,4 @@ All my solved problems of [CSES problem set](https://cses.fi/problemset/list/) h
 [6. Number Spiral](https://cses.fi/problemset/task/1071)|[C++20](/Introductory-Problems/6_Number_Spiral.cpp)
 [7. Two Knights](https://cses.fi/problemset/task/1072)|[C++20](/Introductory-Problems/7_Two_Knights.cpp)
 [8. Two Sets](https://cses.fi/problemset/task/1092/)|[C++20](/Introductory-Problems/8-two-sets.cpp)
+[9. Bit Strings](https://cses.fi/problemset/task/1092/)|[C++20](/Introductory-Problems/9-bit-strings.cpp)
