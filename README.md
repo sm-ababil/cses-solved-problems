@@ -17,3 +17,4 @@ All my solved problems of [CSES problem set](https://cses.fi/problemset/list/) h
 [7. Two Knights](https://cses.fi/problemset/task/1072)|[C++20](/Introductory-Problems/7_Two_Knights.cpp)
 [8. Two Sets](https://cses.fi/problemset/task/1092/)|[C++20](/Introductory-Problems/8-two-sets.cpp)
 [9. Bit Strings](https://cses.fi/problemset/task/1092/)|[C++20](/Introductory-Problems/9-bit-strings.cpp)
+[10. Trailing Zeros](https://cses.fi/problemset/task/1092/)|[C++20](/Introductory-Problems/10-trailing-zeros.cpp)
