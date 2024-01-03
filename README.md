@@ -18,3 +18,4 @@ All my solved problems of [CSES problem set](https://cses.fi/problemset/list/) h
 [8. Two Sets](https://cses.fi/problemset/task/1092/)|[C++20](/Introductory-Problems/8-two-sets.cpp)
 [9. Bit Strings](https://cses.fi/problemset/task/1092/)|[C++20](/Introductory-Problems/9-bit-strings.cpp)
 [10. Trailing Zeros](https://cses.fi/problemset/task/1092/)|[C++20](/Introductory-Problems/10-trailing-zeros.cpp)
+[11. Coin Piles](https://cses.fi/problemset/task/1754/)|[C++20](/Introductory-Problems/11-coin-piles.cpp)
