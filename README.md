@@ -20,3 +20,4 @@ All my solved problems of [CSES problem set](https://cses.fi/problemset/list/) h
 [10. Trailing Zeros](https://cses.fi/problemset/task/1092/)|[C++20](/Introductory-Problems/010-trailing-zeros.cpp)
 [11. Coin Piles](https://cses.fi/problemset/task/1754/)|[C++20](/Introductory-Problems/011-coin-piles.cpp)
 [12. Palindrome Reorder](https://cses.fi/problemset/task/1755/)|[C++20](/Introductory-Problems/012-palindrome-reorder.cpp)
+[13. Gray Code](https://cses.fi/problemset/task/2205/)|[C++20](/Introductory-Problems/013-gray-code.cpp)
