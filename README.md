@@ -22,3 +22,4 @@ All my solved problems of [CSES problem set](https://cses.fi/problemset/list/) h
 [12. Palindrome Reorder](https://cses.fi/problemset/task/1755/)|[C++20](/Introductory-Problems/012-palindrome-reorder.cpp)
 [13. Gray Code](https://cses.fi/problemset/task/2205/)|[C++20](/Introductory-Problems/013-gray-code.cpp)
 [14. Tower of Hanoi](https://cses.fi/problemset/task/2165)|[C++20](/Introductory-Problems/014-tower-of-hanoi.cpp)
+[15. Creating Strings](https://cses.fi/problemset/task/1622)|[C++20](/Introductory-Problems/015-creating-strings.cpp)
